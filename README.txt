@@ -1,1 +1,0 @@
-http://www.openstreetmap.org/export#map=17/37.78292/-122.46336
